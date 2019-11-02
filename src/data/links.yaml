@@ -722,3 +722,15 @@
   categories:
   - news
   description: Aggregations of climate change and action articles from various major news sources.
+
+- title: NRCS - Natural Resources Conservation Service
+  url: https://www.nrcs.usda.gov/
+  categories:
+  - land-management
+  description: NRCS is AMAZING! If you're a landowner in the US, and want financial and/or technical assistance to manage and conserve your land, this org is your best friend.  All kinds of landowners can receive financial assistance from NRCS to make improvements to their land.  NRCS offers voluntary programs to eligible landowners and agricultural producers to provide financial and technical assistance to help manage natural resources in a sustainable manner.  Through these programs the agency approves contracts to provide financial assistance to help plan and implement conservation practices that address natural resource concerns or opportunities to help save energy, improve soil, water, plant, air, animal and related resources on agricultural lands and non-industrial private forest land.  All programs are voluntary and offer science-based solutions that benefit both the landowner and the environment.  Programs include emergency watershed protection and flood prevention, watershed rehabilitation, surveys and planning, healthy forest reserve easements, agricultural conservation easements, conservation stewardship, and environmental quality incentives.
+
+- title: NRDC - Natural Resources Defense Council, "The Earth's Best Defense"
+  url: https://www.nrdc.org/
+  categories:
+  - 
+  description:  NRDC is an environmental advocacy group renowned for accountability, transparency, and efficacy.  NRDC works to safeguard the earth—its people, its plants and animals, and the natural systems on which all life depends.  Armed with lawyers, eco-observers, environmental lobbyists, and scientists, this makes NRDC one of the most effective charities in America.  With dedicated staff working in more than a dozen program areas, they partner with businesses, elected leaders, and community groups on the biggest issues we face today.
